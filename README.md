@@ -103,6 +103,7 @@ Your company is growing its use of AWS services, and is using many Amazon EC2 in
 | user-2 | EC2-Support   | Read-only access to Amazon EC2                     |
 | user-3 | EC2-Admin     | View, Start, and Stop Amazon EC2 instances         |
 
+![AWS](https://github.com/Sohaib63/AWS-Lab-6/blob/main/Screenshot%20(54).png)
 
 # Task 2: Add users to groups
 
@@ -139,6 +140,8 @@ In the navigation pane on the left, choose **User groups**.
 Each group should have a 1 in the **Users** column. This indicates the number of users in each group.
 
 If you do not have a 1 for the **Users** column for a group, revisit the previous steps to ensure that each user is assigned to a group, as shown in the table in the Business scenario section.
+
+![AWS](https://github.com/Sohaib63/AWS-Lab-6/blob/main/Screenshot%20(55).png)
 
 # Task 3: Sign in and test users
 
@@ -209,6 +212,8 @@ In this task, you will test the permissions of each IAM user in the console.
 8. To confirm that you want to stop the instance, choose Stop. This time, the action is successful because user-3 has permissions to stop EC2 instances. The Instance state changes to Stopping and starts to shut down.
 
 9. Close your private browser window.
+
+![AWS](https://github.com/Sohaib63/AWS-Lab-6/blob/main/Screenshot%20(56).png)
 
 ## Submitting your work
 
