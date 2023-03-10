@@ -210,7 +210,7 @@ In this task, you will test the permissions of each IAM user in the console.
 
 9. Close your private browser window.
 
-##Submitting your work
+## Submitting your work
 
 At the top of these instructions, choose Submit to record your progress and when prompted, choose Yes.
 
